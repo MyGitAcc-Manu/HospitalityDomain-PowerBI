@@ -18,7 +18,7 @@ this loss, they needed a way to analyze this. I created a dashboard in Power BI 
 - With the created dashboard, Revenue team of Atliq Grands were able to gain insights about their revenue
 trend. This could help in regaining their revenue and market share by 20% in the upoming months.
 
-- Helped them adopt new pricing strategy to increase occupency rates and ADR.
+- Helped Atliq Grands adopt new pricing strategy to increase occupency rates and ADR.
 
 - helped the management with key insights on customer ratings and its correlation with occupancy and promotion strategies on self operated channels. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
